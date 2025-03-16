@@ -1,0 +1,400 @@
+Name,HP,ATK,DEF,RES,Redeployment time,DP cost,Block count,Attack interval,Position,Rarity,Class,Branch
+Aak,2034,703,152,10,70,13,1,1.3,Ranged,6,Specialist,Geek
+Angelina,1385,542,120,25,70,16,1,1.9,Ranged,6,Supporter,Decel Binder
+Archetto,1705,528,172,0,70,14,1,1,Ranged,6,Sniper,Marksman
+Ascalon,1623,954,333,30,70,21,0,3.5,Melee,6,Specialist,Ambusher
+Ash,1689,534,169,0,70,14,1,1,Ranged,6,Sniper,Marksman
+Bagpipe,2484,586,382,0,70,13,1,1,Melee,6,Vanguard,Charger
+Blaze,2821,765,370,0,70,24,3,1.2,Melee,6,Guard,Centurion
+Blaze the Igniting Spark,1608,662,131,15,70,21,1,1.6,Ranged,6,Caster,Primal
+Blemishine,3242,491,581,10,70,22,3,1.2,Melee,6,Defender,Guardian
+Carnelian,2106,846,228,15,70,24,1,2,Ranged,6,Caster,Phalanx
+Ceobe,1565,667,128,20,70,21,1,1.6,Ranged,6,Caster,Core
+Ch'en,2880,610,352,0,70,23,2,1.3,Melee,6,Guard,Swordmaster
+Ch'en the Holungday,2501,773,203,0,70,32,1,2.3,Ranged,6,Sniper,Spreadshooter
+Chongyue,2635,590,363,0,70,11,1,0.78,Melee,6,Guard,Fighter
+Civilight Eterna,1628,369,226,0,80,10,1,1.3,Ranged,6,Supporter,Bard
+Crownslayer,1695,545,325,0,22,12,1,0.93,Melee,6,Specialist,Executor
+Degenbrecher,2891,635,339,0,70,23,2,1.3,Melee,6,Guard,Swordmaster
+Dorothy,1502,581,172,0,70,12,1,0.85,Ranged,6,Specialist,Trapmaster
+Dusk,1801,918,127,20,70,34,1,2.9,Ranged,6,Caster,Splash
+Ebenholz,1678,1400,135,20,70,25,1,3,Ranged,6,Caster,Mystic
+Ela,1468,558,173,0,70,12,1,0.85,Ranged,6,Specialist,Trapmaster
+Entelechia,2580,700,452,0,70,23,2,1.3,Melee,6,Guard,Reaper
+Eunectes,4468,1007,615,0,70,33,1,1.6,Melee,6,Defender,Duelist
+Executor the Ex Foedere,2491,707,461,0,70,23,2,1.3,Melee,6,Guard,Reaper
+Exusiai,1673,540,161,0,70,14,1,1,Ranged,6,Sniper,Marksman
+Eyjafjalla,1743,645,122,20,70,21,1,1.6,Ranged,6,Caster,Core
+Eyjafjalla the Hvít Aska,1439,424,109,10,70,16,1,2.85,Ranged,6,Medic,Wandering
+Fartooth,1522,1196,163,0,70,22,1,2.7,Ranged,6,Sniper,Deadeye
+Fiammetta,1926,861,156,0,70,29,1,2.8,Ranged,6,Sniper,Artilleryman
+Flametail,2138,526,392,0,70,14,2,1.05,Melee,6,Vanguard,Pioneer
+Gavial the Invincible,2906,766,391,0,70,24,3,1.2,Melee,6,Guard,Centurion
+Gladiia,2309,801,331,0,80,16,2,1.8,Melee,6,Specialist,Hookmaster
+Gnosis,2035,455,132,25,70,13,1,1.6,Ranged,6,Supporter,Hexer
+Goldenglow,1480,331,125,20,70,22,1,1.3,Ranged,6,Caster,Mech-Accord
+Hellagur,3825,762,334,0,70,26,1,1.2,Melee,6,Guard,Soloblade
+Ho'olheyak,1770,633,130,20,70,21,1,1.6,Ranged,6,Caster,Core
+Hoederer,5988,1576,0,0,70,24,2,2.5,Melee,6,Guard,Crusher
+Horn,3067,936,620,0,70,28,3,2.8,Melee,6,Defender,Fortress
+Hoshiguma,3850,430,723,0,70,23,3,1.2,Melee,6,Defender,Protector
+Ifrit,1680,870,130,20,70,34,1,2.9,Ranged,6,Caster,Blast
+Ines,2121,589,281,0,35,11,1,1,Melee,6,Vanguard,Agent
+Irene,2935,621,349,0,70,23,2,1.3,Melee,6,Guard,Swordmaster
+Jessica the Liberated,3608,522,716,0,70,23,3,1.2,Melee,6,Defender,Sentry Protector
+Kal'tsit,1633,490,215,0,70,20,1,2.85,Ranged,6,Medic,Single-target
+Kirin R Yato,1629,565,318,0,18,10,1,0.93,Melee,6,Specialist,Executor
+Lappland the Decadenza,1503,342,117,20,70,22,1,1.3,Ranged,6,Caster,Mech-Accord
+Lee,2421,789,465,0,25,9,1,1,Melee,6,Specialist,Merchant
+Lessing,3682,1044,277,0,80,21,1,1.5,Melee,6,Guard,Dreadnought
+Lin,2048,849,242,15,70,24,1,2,Ranged,6,Caster,Phalanx
+Ling,1079,473,138,20,70,12,1,1.6,Ranged,6,Supporter,Summoner
+Logos,1663,671,119,20,70,21,1,1.6,Ranged,6,Caster,Core
+Lumen,1825,540,111,10,80,23,1,2.85,Ranged,6,Medic,Therapist
+Magallan,1103,469,140,20,70,12,1,1.6,Ranged,6,Supporter,Summoner
+Marcille,1805,914,130,20,70,34,1,2.9,Ranged,6,Caster,Splash
+Mizuki,1758,865,356,30,70,21,0,3.5,Melee,6,Specialist,Ambusher
+Mostima,1831,834,132,20,70,34,1,2.9,Ranged,6,Caster,Splash
+Mountain,2745,587,357,0,70,11,1,0.78,Melee,6,Guard,Fighter
+Mudrock,3928,882,602,10,70,36,3,1.6,Melee,6,Defender,Juggernaut
+Muelsyse,1813,497,117,0,70,15,1,1,Ranged,6,Vanguard,Tactician
+M?ynar,3906,355,502,15,70,12,3,1.2,Melee,6,Guard,Liberator
+Narantuya,2500,675,170,0,70,16,1,1,Ranged,6,Sniper,Loopshooter
+Nearl the Radiant Knight,3550,1064,295,0,70,19,1,1.5,Melee,6,Guard,Dreadnought
+Necrass,1924,633,133,20,70,21,1,1.6,Ranged,6,Caster,Shaper
+Nian,3699,619,726,0,70,23,3,1.5,Melee,6,Defender,Protector
+Nightingale,1705,350,169,5,70,18,1,2.85,Ranged,6,Medic,Multi-target
+Nymph,1650,655,129,15,70,21,1,1.6,Ranged,6,Caster,Primal
+Pallas,1963,687,455,0,70,17,2,1.05,Melee,6,Guard,Instructor
+Passenger,1558,689,130,20,70,33,1,2.3,Ranged,6,Caster,Chain
+Penance,4055,876,616,10,70,36,3,1.6,Melee,6,Defender,Juggernaut
+Pepe,2851,1290,387,0,70,20,2,1.8,Melee,6,Guard,Earthshaker
+Phantom,1645,558,322,0,18,10,1,0.93,Melee,6,Specialist,Executor
+Pozëmka,1802,876,193,0,70,20,1,1.6,Ranged,6,Sniper,Heavyshooter
+Qiubai,2480,718,402,10,70,20,2,1.3,Melee,6,Guard,Lord
+Ray,1933,1072,228,0,70,21,1,1.6,Ranged,6,Sniper,Hunter
+Reed the Flame Shadow,1583,550,84,20,70,17,1,1.6,Ranged,6,Medic,Incantation
+Rosa,1755,1032,122,0,70,24,1,2.4,Ranged,6,Sniper,Besieger
+Rosmontis,1944,688,245,15,70,25,1,2.1,Ranged,6,Sniper,Flinger
+Saga,2205,530,372,0,70,14,2,1.05,Melee,6,Vanguard,Pioneer
+Saileach,1835,546,367,0,70,12,1,1.3,Melee,6,Vanguard,Standard Bearer
+Saria,3150,485,595,10,70,22,3,1.2,Melee,6,Defender,Guardian
+Schwarz,1833,840,225,0,70,20,1,1.6,Ranged,6,Sniper,Heavyshooter
+Shining,1613,530,138,0,70,20,1,2.85,Ranged,6,Medic,Single-target
+Shu,3213,479,602,10,70,22,3,1.2,Melee,6,Defender,Guardian
+Siege,2251,515,384,0,70,14,2,1.05,Melee,6,Vanguard,Pioneer
+Silence the Paradigmatic,1927,467,184,25,80,15,1,1.6,Ranged,6,Supporter,Abjurer
+SilverAsh,2560,713,397,10,70,20,2,1.3,Melee,6,Guard,Lord
+Skadi,3866,1015,263,0,70,19,1,1.5,Melee,6,Guard,Dreadnought
+Skadi the Corrupting Heart,1603,368,233,0,70,8,1,1.3,Ranged,6,Supporter,Bard
+Specter the Unchained,2803,737,322,0,70,16,2,1.2,Melee,6,Specialist,Dollkeeper
+Stainless,2723,593,421,0,70,19,2,1.5,Melee,6,Supporter,Artificer
+Surtr,2916,672,414,15,70,21,1,1.25,Melee,6,Guard,Arts Fighter
+Suzuran,1480,521,128,25,70,16,1,1.9,Ranged,6,Supporter,Decel Binder
+Swire the Elegant Wit,2360,810,457,0,25,9,1,1,Melee,6,Specialist,Merchant
+Texas the Omertosa,1598,569,320,0,18,10,1,0.93,Melee,6,Specialist,Executor
+Thorns,2612,711,402,10,70,20,2,1.3,Melee,6,Guard,Lord
+Thorns the Lodestar,1173,501,106,30,70,18,1,1.5,Ranged,6,Specialist,Alchemist
+Typhon,1702,1045,113,0,70,24,1,2.4,Ranged,6,Sniper,Besieger
+Ulpianus,6022,1569,0,0,70,24,2,2.5,Melee,6,Guard,Crusher
+Vigil,1755,462,154,0,70,17,1,1,Ranged,6,Vanguard,Tactician
+Vina Victoria,2895,675,420,15,70,21,1,1.25,Melee,6,Guard,Arts Fighter
+Virtuosa,1201,485,109,15,70,16,1,1.6,Ranged,6,Supporter,Ritualist
+Viviana,2920,646,447,15,70,21,1,1.25,Melee,6,Guard,Arts Fighter
+Vulpisfoglia,2030,562,380,0,70,14,2,1.05,Melee,6,Vanguard,Pioneer
+W,1605,912,133,0,70,29,1,2.8,Ranged,6,Sniper,Artilleryman
+Weedy,2133,677,394,0,70,21,2,1.2,Melee,6,Specialist,Push Stroker
+Wiš'adel,1888,687,256,15,70,25,1,2.1,Ranged,6,Sniper,Flinger
+Yu,3333,685,577,10,70,26,3,1.6,Melee,6,Defender,Primal Protector
+Zuo Le,3858,780,315,0,70,26,1,1.2,Melee,6,Guard,Soloblade
+Absinthe,1420,633,124,20,80,22,1,1.6,Ranged,5,Caster,Core
+Akafuyu,3635,728,328,0,70,25,1,1.2,Melee,5,Guard,Soloblade
+Almond,2130,695,410,0,70,13,2,1.8,Melee,5,Specialist,Hookmaster
+Amiya(caster),1480,612,121,20,70,20,1,1.6,Ranged,5,Caster,Core
+Amiya(guard),2629,657,376,20,70,21,1,1.25,Melee,5,Guard,Arts Fighter
+Amiya(medic),1416,532,106,20,70,17,1,1.6,Ranged,5,Medic,Incantation
+Andreana,1498,1070,128,0,70,21,1,2.7,Ranged,5,Sniper,Deadeye
+Aosta,2376,691,192,0,70,31,1,2.3,Ranged,5,Sniper,Spreadshooter
+April,1280,528,160,0,70,13,1,1,Ranged,5,Sniper,Marksman
+Aroma,1591,760,115,20,70,33,1,2.9,Ranged,5,Caster,Blast
+Asbestos,3135,633,555,15,70,25,3,1.6,Melee,5,Defender,Arts Protector
+Ashlock,3207,865,541,0,70,27,3,2.8,Melee,5,Defender,Fortress
+Astesia,2523,660,393,15,70,21,1,1.25,Melee,5,Guard,Arts Fighter
+Astgenne,1440,630,122,20,80,34,1,2.3,Ranged,5,Caster,Chain
+Aurora,4027,901,640,0,70,32,1,1.6,Melee,5,Defender,Duelist
+Ayerscarpe,2420,670,375,10,70,19,2,1.3,Melee,5,Guard,Lord
+Bassline,2770,473,570,10,70,21,3,1.2,Melee,5,Defender,Guardian
+Beeswax,2005,735,205,15,70,23,1,2,Ranged,5,Caster,Phalanx
+Bena,2435,682,315,0,80,17,2,1.2,Melee,5,Specialist,Dollkeeper
+Bibeak,2550,602,332,0,70,22,2,1.3,Melee,5,Guard,Swordmaster
+Bison,3456,375,701,0,80,24,3,1.2,Melee,5,Defender,Protector
+Blacknight,1625,442,133,0,70,14,1,1,Ranged,5,Vanguard,Tactician
+Blitz,3213,445,676,0,70,22,3,1.2,Melee,5,Defender,Sentry Protector
+Blue Poison,1230,535,130,5,70,13,1,1,Ranged,5,Sniper,Marksman
+Bobbing,1305,446,68,15,70,15,1,1.6,Ranged,5,Supporter,Ritualist
+Breeze,1595,343,153,0,70,17,1,2.85,Ranged,5,Medic,Multi-target
+Brigid,2350,640,165,0,80,17,1,1,Ranged,5,Sniper,Loopshooter
+Broca,2335,762,366,0,70,23,3,1.2,Melee,5,Guard,Centurion
+Bryophyta,1900,650,421,0,80,18,2,1.05,Melee,5,Guard,Instructor
+Cantabile,1917,560,267,0,35,10,1,1,Melee,5,Vanguard,Agent
+Catherine,2680,550,420,0,80,20,2,1.5,Melee,5,Supporter,Artificer
+Cement,3642,1002,628,0,70,32,1,1.6,Melee,5,Defender,Duelist
+Ceylon,1455,468,126,10,80,22,1,2.85,Ranged,5,Medic,Therapist
+Chiave,1824,522,342,0,70,13,2,1.05,Melee,5,Vanguard,Pioneer
+Chilchuck,1880,560,277,0,35,10,1,1,Melee,5,Vanguard,Agent
+Cliffheart,1970,765,340,0,70,13,2,1.8,Melee,5,Specialist,Hookmaster
+Coldshot,1855,958,224,0,80,21,1,1.6,Ranged,5,Sniper,Hunter
+Corroserum,1572,760,120,20,70,33,1,2.9,Ranged,5,Caster,Blast
+Croissant,3520,380,710,0,70,22,3,1.2,Melee,5,Defender,Protector
+Czerny,3122,625,577,15,80,27,3,1.6,Melee,5,Defender,Arts Protector
+Dagda,2506,574,310,0,80,12,1,0.78,Melee,5,Guard,Fighter
+Delphine,1532,1240,128,20,80,26,1,3,Ranged,5,Caster,Mystic
+Diamante,1309,578,111,15,70,20,1,1.6,Ranged,5,Caster,Primal
+Doc,2217,657,360,0,70,16,2,1.05,Melee,5,Guard,Instructor
+Elysium,1669,533,335,0,70,11,1,1.3,Melee,5,Vanguard,Standard Bearer
+Enforcer,1937,653,381,0,80,22,2,1.2,Melee,5,Specialist,Push Stroker
+Erato,1648,957,125,0,70,23,1,2.4,Ranged,5,Sniper,Besieger
+Executor,2330,720,185,0,70,31,1,2.3,Ranged,5,Sniper,Spreadshooter
+FEater,1845,640,382,0,70,20,2,1.2,Melee,5,Specialist,Push Stroker
+Fang the Fire-Sharpened,2226,570,360,0,70,12,1,1,Melee,5,Vanguard,Charger
+Figurino,2393,741,391,0,25,8,1,1,Melee,5,Specialist,Merchant
+Firewatch,1450,1085,131,0,70,21,1,2.7,Ranged,5,Sniper,Deadeye
+Firewhistle,2983,882,568,0,70,27,3,2.8,Melee,5,Defender,Fortress
+Flamebringer,3907,918,195,0,80,20,1,1.5,Melee,5,Guard,Dreadnought
+Flint,2495,545,334,0,70,10,1,0.78,Melee,5,Guard,Fighter
+Folinic,1585,479,133,0,80,21,1,2.85,Ranged,5,Medic,Single-target
+Franka,3768,936,235,0,70,18,1,1.5,Melee,5,Guard,Dreadnought
+Frost,1359,529,157,0,70,11,1,0.85,Ranged,5,Specialist,Trapmaster
+Fuze,2660,795,290,0,80,25,3,1.2,Melee,5,Guard,Centurion
+Glaucus,1267,505,100,20,70,15,1,1.9,Ranged,5,Supporter,Decel Binder
+Grain Buds,1260,525,100,20,70,15,1,1.9,Ranged,5,Supporter,Decel Binder
+Grani,2235,552,367,0,80,14,1,1,Melee,5,Vanguard,Charger
+GreyThroat,1493,513,152,0,70,13,1,1,Ranged,5,Sniper,Marksman
+Greyy the Lightningbearer,1730,628,240,15,70,24,1,2.1,Ranged,5,Sniper,Flinger
+Harmonie,1546,1245,125,20,70,24,1,3,Ranged,5,Caster,Mystic
+Harold,1400,385,100,10,80,17,1,2.85,Ranged,5,Medic,Wandering
+Heavyrain,3380,378,721,0,80,24,3,1.2,Melee,5,Defender,Protector
+Heidi,1260,320,268,0,80,9,1,1.3,Ranged,5,Supporter,Bard
+Hibiscus the Purifier,1508,511,109,20,70,17,1,1.6,Ranged,5,Medic,Incantation
+Highmore,2120,670,454,0,70,22,2,1.3,Melee,5,Guard,Reaper
+Honeyberry,1458,375,107,10,70,15,1,2.85,Ranged,5,Medic,Wandering
+Hung,2823,442,585,10,70,21,3,1.2,Melee,5,Defender,Guardian
+Iana,2436,708,291,0,70,15,2,1.2,Melee,5,Specialist,Dollkeeper
+Indra,2565,530,350,0,70,10,1,0.78,Melee,5,Guard,Fighter
+Insider,1440,522,178,0,80,15,1,1,Ranged,5,Sniper,Marksman
+Iris,1535,1259,125,20,70,24,1,3,Ranged,5,Caster,Mystic
+Istina,1280,518,104,20,70,15,1,1.9,Ranged,5,Supporter,Decel Binder
+Jieyun,1650,835,115,0,80,30,1,2.8,Ranged,5,Sniper,Artilleryman
+Kafka,1675,525,311,0,18,9,1,0.93,Melee,5,Specialist,Executor
+Kazemaru,2372,692,318,0,70,15,2,1.2,Melee,5,Specialist,Dollkeeper
+Kestrel,1960,514,342,0,70,13,2,1.05,Melee,5,Vanguard,Pioneer
+Kirara,1780,798,340,30,70,20,0,3.5,Melee,5,Specialist,Ambusher
+Kjera,1475,294,121,20,80,23,1,1.3,Ranged,5,Caster,Mech-Accord
+Kroos the Keen Glint,1520,502,176,0,80,15,1,1,Ranged,5,Sniper,Marksman
+La Pluma,2250,650,452,0,70,22,2,1.3,Melee,5,Guard,Reaper
+Laios,3868,900,256,0,70,18,1,1.5,Melee,5,Guard,Dreadnought
+Lappland,2350,685,365,15,70,19,2,1.3,Melee,5,Guard,Lord
+Lava the Purgatory,1543,798,115,20,80,35,1,2.9,Ranged,5,Caster,Splash
+Leizi,1443,635,119,20,70,32,1,2.3,Ranged,5,Caster,Chain
+Leonhardt,1637,773,120,20,70,33,1,2.9,Ranged,5,Caster,Splash
+Leto,2280,680,375,10,70,19,2,1.3,Melee,5,Guard,Lord
+Liskarm,3240,425,710,0,70,22,3,1.2,Melee,5,Defender,Sentry Protector
+Lucilla,1625,440,103,25,70,12,1,1.6,Ranged,5,Supporter,Hexer
+Lunacub,1536,1034,155,0,70,21,1,2.7,Ranged,5,Sniper,Deadeye
+Manticore,1630,811,343,30,70,20,0,3.5,Melee,5,Specialist,Ambusher
+Mayer,1068,443,130,20,70,11,1,1.6,Ranged,5,Supporter,Summoner
+Melanite,1664,792,210,0,70,19,1,1.6,Ranged,5,Sniper,Heavyshooter
+Meteorite,1505,865,116,0,70,28,1,2.8,Ranged,5,Sniper,Artilleryman
+Minimalist,1400,320,120,20,80,23,1,1.3,Ranged,5,Caster,Mech-Accord
+Mint,1945,732,196,15,80,25,1,2,Ranged,5,Caster,Phalanx
+Mitm,1370,495,122,0,70,14,1,1,Ranged,5,Vanguard,Tactician
+Morgan,3810,905,243,0,80,20,1,1.5,Melee,5,Guard,Dreadnought
+Mr. Nothing,2398,725,396,0,25,8,1,1,Melee,5,Specialist,Merchant
+Mulberry,1367,388,99,10,70,15,1,2.85,Ranged,5,Medic,Wandering
+Nearl,2780,462,575,10,70,21,3,1.2,Melee,5,Defender,Guardian
+Nightmare,1510,622,120,20,70,20,1,1.6,Ranged,5,Caster,Core
+Nine-Colored Deer,1685,443,179,25,70,11,1,1.6,Ranged,5,Supporter,Abjurer
+Nowell,1367,516,108,10,70,20,1,2.85,Ranged,5,Medic,Therapist
+Odda,2593,1190,337,0,80,21,2,1.8,Melee,5,Guard,Earthshaker
+Paprika,1666,439,171,0,70,18,1,2.85,Ranged,5,Medic,Multi-target
+Papyrus,1715,440,160,0,80,20,1,2.85,Ranged,5,Medic,Multi-target
+Philae,3227,603,544,10,70,25,3,1.6,Melee,5,Defender,Primal Protector
+Platinum,1550,505,165,0,70,13,1,1,Ranged,5,Sniper,Marksman
+Poncirus,2215,455,360,0,70,13,2,1.05,Melee,5,Vanguard,Pioneer
+Pramanix,1605,430,102,25,70,12,1,1.6,Ranged,5,Supporter,Hexer
+Projekt Red,1505,530,302,0,18,9,1,0.93,Melee,5,Specialist,Executor
+Provence,1680,781,215,0,70,19,1,1.6,Ranged,5,Sniper,Heavyshooter
+Proviso,1298,513,102,20,70,15,1,1.9,Ranged,5,Supporter,Decel Binder
+Ptilopsis,1610,335,150,0,70,17,1,2.85,Ranged,5,Medic,Multi-target
+Puzzle,1860,566,244,0,35,12,1,1,Melee,5,Vanguard,Agent
+Qanipalaat,1500,625,119,20,70,20,1,1.6,Ranged,5,Caster,Core
+Quercus,1680,463,172,25,70,12,1,1.6,Ranged,5,Supporter,Abjurer
+Rathalos S Noir Corne,3518,726,351,0,70,25,1,1.2,Melee,5,Guard,Soloblade
+Reed,2215,562,364,0,70,12,1,1,Melee,5,Vanguard,Charger
+Robin,1442,513,166,0,80,13,1,0.85,Ranged,5,Specialist,Trapmaster
+Rockrock,1468,320,123,20,70,21,1,1.3,Ranged,5,Caster,Mech-Accord
+Rose Salt,1675,330,151,0,80,19,1,2.85,Ranged,5,Medic,Multi-target
+Sand Reckoner,1031,450,160,20,70,11,1,1.6,Ranged,5,Supporter,Summoner
+Santalla,1640,770,123,20,70,33,1,2.9,Ranged,5,Caster,Splash
+Savage,2430,705,320,0,70,22,3,1.2,Melee,5,Guard,Centurion
+Scene,1105,432,155,20,70,11,1,1.6,Ranged,5,Supporter,Summoner
+Senshi,2770,470,580,10,80,23,3,1.2,Melee,5,Defender,Guardian
+Sesa,1655,833,123,0,70,28,1,2.8,Ranged,5,Sniper,Artilleryman
+Shalem,3090,649,550,15,70,25,3,1.6,Melee,5,Defender,Arts Protector
+Shamare,1728,408,105,25,70,12,1,1.6,Ranged,5,Supporter,Hexer
+Sideroca,2845,620,369,15,80,23,1,1.25,Melee,5,Guard,Arts Fighter
+Silence,1595,482,142,0,70,19,1,2.85,Ranged,5,Medic,Single-target
+Skyfire,1620,784,122,20,70,33,1,2.9,Ranged,5,Caster,Splash
+Snowsant,1835,745,355,0,80,15,2,1.8,Melee,5,Specialist,Hookmaster
+Sora,1356,335,238,0,70,7,1,1.3,Ranged,5,Supporter,Bard
+Specter,2630,725,355,0,70,23,3,1.2,Melee,5,Guard,Centurion
+Spuria,1893,662,138,10,70,12,1,1.3,Ranged,5,Specialist,Geek
+Surfer,1950,560,261,0,35,10,1,1,Melee,5,Vanguard,Agent
+Swire,1914,656,413,0,70,16,2,1.05,Melee,5,Guard,Instructor
+Tachanka,2626,621,309,0,80,24,2,1.3,Melee,5,Guard,Swordmaster
+Tecno,1655,519,70,20,70,20,1,1.6,Ranged,5,Caster,Shaper
+Tequila,3757,302,501,15,80,13,3,1.2,Melee,5,Guard,Liberator
+Texas,1950,500,343,0,70,13,2,1.05,Melee,5,Vanguard,Pioneer
+Tin Man,1114,469,99,30,70,17,1,1.5,Ranged,5,Specialist,Alchemist
+Toddifons,1667,954,123,0,70,23,1,2.4,Ranged,5,Sniper,Besieger
+Tomimi,1920,600,119,20,80,22,1,1.6,Ranged,5,Caster,Core
+Tsukinogi,1620,385,175,25,70,12,1,1.6,Ranged,5,Supporter,Abjurer
+Tuye,1550,493,135,0,80,21,1,2.85,Ranged,5,Medic,Single-target
+Underflow,3253,439,696,0,80,24,3,1.2,Melee,5,Defender,Sentry Protector
+Valarqvin,1097,447,101,15,70,15,1,1.6,Ranged,5,Supporter,Ritualist
+Vendela,1370,550,100,20,70,17,1,1.6,Ranged,5,Medic,Incantation
+Vulcan,3688,820,585,10,70,35,3,1.6,Melee,5,Defender,Juggernuat
+Waai Fu,1455,536,304,0,18,9,1,0.93,Melee,5,Specialist,Executor
+Wanqing,1516,514,380,0,80,13,1,1.3,Melee,5,Vanguard,Standard Bearer
+Warfarin,1520,505,125,0,70,19,1,2.85,Ranged,5,Medic,Single-target
+Warmy,1358,581,106,15,70,20,1,1.6,Ranged,5,Caster,Primal
+Whislash,1932,645,420,0,80,18,2,1.05,Melee,5,Guard,Instructor
+Whisperain,1432,492,119,10,70,20,1,2.85,Ranged,5,Medic,Therapist
+Wild Mane,2225,558,372,0,80,14,1,1,Melee,5,Vanguard,Charger
+Wind Chimes,5669,1438,0,0,70,23,2,2.5,Melee,5,Guard,Crusher
+Windflit,2600,535,425,0,70,18,2,1.5,Melee,5,Supporter,Artificer
+Wulfenite,1450,520,160,0,70,11,1,0.85,Ranged,5,Specialist,Trapmaster
+Xingzhu,1746,423,181,25,80,13,1,1.6,Ranged,5,Supporter,Abjurer
+Zima,2150,470,350,0,70,13,2,1.05,Melee,5,Vanguard,Pioneer
+Aciddrop,1576,735,209,0,70,18,1,1.6,Ranged,4,Sniper,Heavyshooter
+Ambriel,1595,977,122,0,70,20,1,2.7,Ranged,4,Sniper,Deadeye
+Arene,2250,640,340,10,70,18,2,1.3,Melee,4,Guard,Lord
+Beanstalk,1569,405,125,0,70,13,1,1,Ranged,4,Vanguard,Tactician
+Beehunter,2435,513,312,0,70,9,1,0.78,Melee,4,Guard,Fighter
+Bubble,3416,370,645,0,70,21,3,1.2,Melee,4,Defender,Protector
+Caper,2200,600,160,0,70,14,1,1,Ranged,4,Sniper,Loopshooter
+Chestnut,1137,389,101,10,70,14,1,2.85,Ranged,4,Medic,Wandering
+Click,1440,315,120,20,70,20,1,1.3,Ranged,4,Caster,Mech-Accord
+Contrail,2255,692,393,0,70,16,2,1.5,Melee,4,Specialist,Skyranger
+Conviction,3483,929,166,0,70,16,1,1.5,Melee,4,Guard,Dreadnought
+Courier,1985,435,322,0,70,12,2,1.05,Melee,4,Vanguard,Pioneer
+Cuora,3105,365,690,0,70,21,3,1.2,Melee,4,Defender,Protector
+Cutter,2320,571,325,0,70,21,2,1.3,Melee,4,Guard,Swordmaster
+Deepcolor,1050,403,125,15,70,10,1,1.6,Ranged,4,Supporter,Summoner
+Dobermann,2024,602,382,0,70,15,2,1.05,Melee,4,Guard,Instructor
+Dur-nar,3007,583,548,15,70,24,3,1.6,Melee,4,Defender,Arts Protector
+Earthspirit,1205,480,101,20,70,14,1,1.9,Ranged,4,Supporter,Decel Binder
+Estelle,2500,690,315,0,70,22,3,1.2,Melee,4,Guard,Centurion
+Ethan,1530,742,337,30,70,19,0,3.5,Melee,4,Specialist,Ambusher
+Frostleaf,2260,660,323,10,70,18,2,1.3,Melee,4,Guard,Lord
+Gavial,1580,450,152,0,70,18,1,2.85,Ranged,4,Medic,Single-target
+Gitano,1598,715,118,20,70,32,1,2.9,Ranged,4,Caster,Splash
+Gravel,1420,452,335,0,18,8,1,0.93,Melee,4,Specialist,Executor
+Greyy,1537,699,130,20,70,32,1,2.9,Ranged,4,Caster,Splash
+Gummy,2550,435,562,10,70,20,3,1.2,Melee,4,Defender,Guardian
+Haze,1420,583,110,20,70,19,1,1.6,Ranged,4,Caster,Core
+Humus,2150,616,403,0,70,21,2,1.3,Melee,4,Guard,Reaper
+Indigo,1435,1116,117,20,70,23,1,3,Ranged,4,Caster,Mystic
+Jackie,2278,529,308,0,70,9,1,0.78,Melee,4,Guard,Fighter
+Jaye,2284,674,378,0,25,7,1,1,Melee,4,Specialist,Merchant
+Jessica,1320,475,154,0,70,12,1,1,Ranged,4,Sniper,Marksman
+Luo Xiaohei,2040,698,325,10,70,17,2,1.3,Melee,4,Guard,Lord
+Lutonada,3550,790,495,10,70,34,3,1.6,Melee,4,Defender,Juggernaut
+Matoimaru,3640,916,156,0,70,17,1,1.5,Melee,4,Guard,Dreadnought
+Matterhorn,3235,375,670,5,70,21,3,1.2,Melee,4,Defender,Protector
+May,1632,478,105,0,70,12,1,1,Ranged,4,Sniper,Marksman
+Meteor,1370,465,165,0,70,12,1,1,Ranged,4,Sniper,Marksman
+Mousse,2345,644,357,15,70,20,1,1.25,Melee,4,Guard,Arts Fighter
+Myrrh,1420,465,131,0,70,18,1,2.85,Ranged,4,Medic,Single-target
+Myrtle,1565,520,300,0,70,10,1,1.3,Melee,4,Vanguard,Standard Bearer
+Perfumer,1560,320,145,0,70,16,1,2.85,Ranged,4,Medic,Multi-target
+Pinecone,2200,667,167,0,70,30,1,2.3,Ranged,4,Sniper,Spreadshooter
+Podenco,1163,492,96,20,70,14,1,1.9,Ranged,4,Supporter,Decel Binder
+Pudding,1326,542,108,20,70,31,1,2.3,Ranged,4,Caster,Chain
+Purestream,1365,454,118,10,80,19,1,2.85,Ranged,4,Medic,Therapist
+Quartz,5432,1387,0,0,70,22,2,2.5,Melee,4,Guard,Crusher
+Roberta,2470,535,415,0,70,17,2,1.5,Melee,4,Supporter,Artificer
+Rope,1720,728,325,0,70,12,2,1.8,Melee,4,Specialist,Hookmaster
+Scavenger,1835,470,310,0,70,12,2,1.05,Melee,4,Vanguard,Pioneer
+Shaw,1785,580,365,0,70,19,2,1.2,Melee,4,Specialist,Push Stroker
+Shirayuki,1630,797,100,0,70,27,1,2.8,Ranged,4,Sniper,Artilleryman
+Sussurro,1345,488,122,0,70,18,1,2.85,Ranged,4,Medic,Single-target
+Totter,1550,920,105,0,70,22,1,2.4,Ranged,4,Sniper,Besieger
+Utage,3444,693,312,0,70,24,1,1.2,Melee,4,Guard,Soloblade
+Verdant,2266,672,259,0,70,14,2,1.2,Melee,4,Specialist,Dollkeeper
+Vermeil,1230,485,162,0,70,12,1,1,Ranged,4,Sniper,Marksman
+Vigna,1845,558,351,0,70,11,1,1,Melee,4,Vanguard,Charger
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
